@@ -1,6 +1,3 @@
-Perfeito! Seguindo exatamente o mesmo estilo do exemplo que você deu, aqui está a versão do seu README para o projeto de **Cadastro de Membros Universitários em Java**:
-
----
 
 # 🎓 Cadastro de Membros Universitários em Java
 
